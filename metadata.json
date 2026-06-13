@@ -1,0 +1,6 @@
+{
+  "name": "Avengers: Infinity Card Wars",
+  "description": "Deploy a supreme squad of 5 Avengers, unlock legendary Infinity Stones, conquer reality-warping bosses, and consult Stark's H.O.M.E.R. v2 Strategic AI in this turn-based card battle arena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
